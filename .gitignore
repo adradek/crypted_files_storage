@@ -7,4 +7,5 @@ source_file
 *.sf
 
 box
+*.box.backup
 *.box
